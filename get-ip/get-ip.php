@@ -15,7 +15,7 @@ if (!class_exists('login_whmcs_shortcode')) {
      */
     class Wp_IP_Shortcode {
         public function __construct() {
-            add_shortcode('ip_address', [$this, 'ip_address']);
+            add_shortcode('ipaddress', [$this, 'ip_address']);
         }
 
         /// CRIAR O SHORTCODE
