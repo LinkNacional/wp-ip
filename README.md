@@ -1,4 +1,4 @@
-# get ip wordPress
+# get ip WordPress
 
 Plugin para WordPress para inserir o IP da maquina que esta acessando via shortcode
 
